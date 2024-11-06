@@ -1,0 +1,39 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:cloudcomputing-436720
+project_id,cloudcomputing-436720
+pool_id,github
+Wed Nov 06 2024 16:20:00 GMT-0500 (Eastern Standard Time),0.008055412034645021
+Wed Nov 06 2024 16:21:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 16:22:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 16:23:00 GMT-0500 (Eastern Standard Time),0.032221648138580083
+Wed Nov 06 2024 16:24:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 16:28:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 16:29:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 16:30:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 16:33:00 GMT-0500 (Eastern Standard Time),0.032221648138580083
+Wed Nov 06 2024 16:34:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 16:36:00 GMT-0500 (Eastern Standard Time),0.03222164813858009
+Wed Nov 06 2024 16:37:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 16:38:00 GMT-0500 (Eastern Standard Time),0.03222164813858009
+Wed Nov 06 2024 16:39:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 16:43:00 GMT-0500 (Eastern Standard Time),0.03222164813858009
+Wed Nov 06 2024 16:44:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 16:45:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 16:46:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 16:47:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 16:49:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 16:50:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 16:51:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 17:05:00 GMT-0500 (Eastern Standard Time),0.032221648138580083
+Wed Nov 06 2024 17:06:00 GMT-0500 (Eastern Standard Time),0.034445018528086575
+Wed Nov 06 2024 17:17:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 17:18:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 17:19:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 17:20:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 17:21:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 17:22:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 17:53:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 17:54:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 17:55:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
+Wed Nov 06 2024 17:58:00 GMT-0500 (Eastern Standard Time),0.008055412034645023
+Wed Nov 06 2024 17:59:00 GMT-0500 (Eastern Standard Time),0.032777490735956705
+Wed Nov 06 2024 18:00:00 GMT-0500 (Eastern Standard Time),0.025833763896064937
